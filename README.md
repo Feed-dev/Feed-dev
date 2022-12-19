@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Federico aka Feed aka Arawn
-- 👀 I’m interested in BlockChain development, NFT's, Gaming, Economics
+- 👀 I’m interested in BlockChain development, NFT's, Gaming, Ai
 - 🌱 I’m currently learning Solidity, Hardhat, Moralis, Smartcontract and backend stuff
-- 💞️ I’m looking to collaborate on eny Blockchain Gaming project using Unity, NFT's, Chainlink, EVM...
+- 💞️ I’m looking to collaborate on eny Blockchain project using Solidity, Unity, NFT's, Chainlink, EVM...
 - 📫 How to reach me? federico.lubbert@gmail.com
 
 <!---
