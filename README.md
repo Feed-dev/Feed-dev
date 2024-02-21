@@ -3,7 +3,7 @@
 🔭 **Current Projects**
 - Working on a defi solution for funding Ai inference with yield. Yield to Compute.
 - Doing the 100 day Pyhon challenge to get the fundamentals down for Ai development and machine learning endeavors.
-- Exploring Lilipad. Its possibilities for decentrilized Ai apps and fine-tuning.
+- Exploring Lilipad. Its possibilities for decentralized Ai apps and fine-tuning.
 
 🛠 **Skills & Technologies**
 - Solidity
