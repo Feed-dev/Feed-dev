@@ -1,20 +1,19 @@
 👋 Hi, I'm Federico, a Blockchain Developer & AI Enthusiast!
 
 🔭 **Current Projects**
-- Working on a LLM chatbot assistant for a private Library.
-- Building smart contracts for NFTs
-- Exploring Chainlink functions
+- Working on a defi solution for funding Ai inference with yield. Yield to Compute.
+- Doing the 100 day Pyhon challenge to get the fundamentals down for Ai development and machine learning endeavors.
+- Exploring Lilipad. Its possibilities for decentrilized Ai apps and fine-tuning.
 
 🛠 **Skills & Technologies**
 - Solidity
 - Javascript
 - Chainlink
+- Foundry
+- Hardhat
 
 🌱 **Learning**
-- Solidity
-- Foundry
-- Smart contract security
-- Autogen
+- Python
 - Langchain
 
 👀 **Interests**
