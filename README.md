@@ -15,6 +15,7 @@
 🌱 **Learning**
 - Python
 - Langchain
+- CrewAi
 
 👀 **Interests**
 - Blockchain development
