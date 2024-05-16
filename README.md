@@ -1,21 +1,25 @@
 👋 Hi, I'm Federico, a Blockchain Developer & AI Enthusiast!
 
 🔭 **Current Projects**
-- Working on a defi solution for funding Ai inference with yield. Yield to Compute.
-- Doing the 100 day Pyhon challenge to get the fundamentals down for Ai development and machine learning endeavors.
-- Exploring Lilipad. Its possibilities for decentralized Ai apps and fine-tuning.
+-  Working on a defi solution for funding Ai inference with yield. Yield to Compute.
+-  Expanding my python fundamentals.
+-  Everything RAG. Found my ideal dataset to learn all the intricacies of Retrieval Augmented Generation.
+-  Exploring Lilipad. Its possibilities for decentralized Ai apps and fine-tuning.
 
 🛠 **Skills & Technologies**
+- Python
 - Solidity
 - Javascript
 - Chainlink
 - Foundry
 - Hardhat
+- Langschain, langsmith, Langserve
+- Pinecone
 
 🌱 **Learning**
-- Python
-- Langchain
 - CrewAi
+- Custom Agents
+- RAG 
 
 👀 **Interests**
 - Blockchain development
