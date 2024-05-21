@@ -15,11 +15,12 @@
 - Hardhat
 - Langschain, langsmith, Langserve
 - Pinecone
+- CrewAi
+- RAG
 
 🌱 **Learning**
-- CrewAi
 - Custom Agents
-- RAG 
+- State of the art RAG
 
 👀 **Interests**
 - Blockchain development
