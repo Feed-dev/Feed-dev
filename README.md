@@ -13,7 +13,7 @@
 - Chainlink
 - Foundry
 - Hardhat
-- Langschain, langsmith, Langserve
+- Langschain, langgraph
 - Pinecone
 - CrewAi
 - RAG
