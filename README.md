@@ -7,16 +7,12 @@
 -  Exploring Lilipad. Its possibilities for decentralized Ai apps and fine-tuning.
 
 🛠 **Skills & Technologies**
-- Python
-- Solidity
 - Javascript
-- Chainlink
-- Foundry
-- Hardhat
-- Langschain, langgraph
-- Pinecone
+- Solidity | Chainlink | Foundry | Hardhat
+- Python
+- Langschain | LangGraph
+- Pinecone | RAG
 - CrewAi
-- RAG
 
 🌱 **Learning**
 - Custom Agents
