@@ -1,7 +1,6 @@
 👋 Hi, I'm a Blockchain Developer & AI Enthusiast!
 
 🔭 **Current Projects**
--  Working on a defi solution for funding Ai inference with yield. Yield to Compute.
 -  Expanding my python fundamentals.
 -  Everything RAG. Found my ideal dataset to learn all the intricacies of Retrieval Augmented Generation.
 -  Exploring Lilipad. Its possibilities for decentralized Ai apps and fine-tuning.
