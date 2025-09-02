@@ -1,4 +1,4 @@
-👋 Hi, I'm Federico, a Blockchain Developer & AI Enthusiast!
+👋 Hi, I'm a Blockchain Developer & AI Enthusiast!
 
 🔭 **Current Projects**
 -  Working on a defi solution for funding Ai inference with yield. Yield to Compute.
@@ -27,7 +27,3 @@
 
 💞️ **Collaboration**
 I'm open to collaborating on any exciting blockchain projects. Feel free to reach out!
-
-📫 **Contact Me**
-- 📧 Email: federico.lubbert@gmail.com
-- 🐦 Twitter: @JamesNeural
