@@ -16,6 +16,7 @@
 🌱 **Learning**
 - Custom Agents
 - State of the art RAG
+- Openclaw 
 
 👀 **Interests**
 - Blockchain development
