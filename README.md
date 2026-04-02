@@ -3,7 +3,7 @@
 🔭 **Current Projects**
 -  Expanding my python fundamentals.
 -  Everything RAG. Found my ideal dataset to learn all the intricacies of Retrieval Augmented Generation.
--  Exploring Lilipad. Its possibilities for decentralized Ai apps and fine-tuning.
+-  Exploring Openclaw. Its possibilities for 24/7 agentic Ai and proto digital workers.
 
 🛠 **Skills & Technologies**
 - Javascript
