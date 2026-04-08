@@ -14,7 +14,7 @@
 - CrewAi
 
 🌱 **Learning**
-- Custom Agents
+- Pi Agents
 - State of the art RAG
 - Openclaw 
 
