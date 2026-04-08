@@ -26,4 +26,4 @@
 - Creative prompting
 
 💞️ **Collaboration**
-I'm open to collaborating on any exciting blockchain projects. Feel free to reach out!
+I'm open to collaborating on any exciting projects. Feel free to reach out!
