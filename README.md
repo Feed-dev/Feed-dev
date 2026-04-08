@@ -11,19 +11,20 @@
 - Python
 - Langschain | LangGraph
 - Pinecone | RAG
-- CrewAi
+- CrewAi | Openclaw | Claude Code
 
 🌱 **Learning**
 - Pi Agents
 - State of the art RAG
-- Openclaw 
+- System administration and cyber security
+- more Openclaw 
 
 👀 **Interests**
 - Blockchain development
 - LLM's
 - Ai agents
 - Gaming
-- Creative prompting
+- Drones
 
 💞️ **Collaboration**
 I'm open to collaborating on any exciting projects. Feel free to reach out!
