@@ -1,7 +1,7 @@
 👋 Hi, I'm a Tinkerer & AI Enthusiast!
 
 🔭 **Current Projects**
--  Expanding my python fundamentals.
+-  Expanding my homelab.
 -  Everything RAG. Found my ideal dataset to learn all the intricacies of Retrieval Augmented Generation.
 -  Exploring Openclaw. Its possibilities for 24/7 agentic Ai and proto digital workers.
 
