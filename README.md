@@ -1,4 +1,4 @@
-👋 Hi, I'm a Blockchain Developer & AI Enthusiast!
+👋 Hi, I'm a Tinkerer & AI Enthusiast!
 
 🔭 **Current Projects**
 -  Expanding my python fundamentals.
